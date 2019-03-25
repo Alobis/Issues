@@ -1,0 +1,17 @@
+Description:
+The dialogue options for the playing in the quest Dearest Natalia in Silithus are in french
+
+Current behaviour:
+French dialogue options for the player.
+
+Expected behaviour:
+English dialogue options.
+
+Steps to reproduce the problem:
+    Step 1 - Accept quest in CH and go to Bronzebeard Encampment
+    Step 2 - Interact with Rutgar Glyphshaper to find French dialogue options (Not that Rutgar's dialogue is correctly in English)
+    Step 3 - Interact with Frankal Stonebridge to find French dialogue options with similar correct english from Frankal
+
+rev. hash/commit:
+
+Sunstrider rev. 10746 (5cdb2d7330f4) 2019-03-24 11:12:45
