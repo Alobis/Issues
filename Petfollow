@@ -1,0 +1,19 @@
+Description:
+Pet follow no longer causes pet to return to side while in combat.
+Player making this entry is a warlock with felguard.
+Hunter has mentioned the same issue in guild chat.
+
+Current behaviour:
+Pet follow no longer causes pet to return to side while in combat. It will instead stop attacking and stay in place..
+
+Expected behaviour:
+Pet follow should cause pet to stop attacking and return to the owner's side while in combat.
+
+Steps to reproduce the problem:
+1. Put pet on passive
+2. Enter combat
+3. Send pet to attack and stand at distance to make it obvious when it is or isn't returning
+4. Press follow and it should stay still.
+
+rev. hash/commit:
+Sunstrider rev.10820 (683517a2bf22+) 2019-04-01 02:53:07 +0200 (master branch) (Unix, RelWithDebInfo, Static)
