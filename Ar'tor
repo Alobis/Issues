@@ -1,0 +1,17 @@
+Description:
+Ar'tor, Son of Oronok not interactable in SMV
+
+Current behaviour:
+Can't find the correct unit to interact with, or the correct unit is there and uninteractable.
+
+Expected behaviour:
+The unit for the quest has a quest dialogue or is in his correct location
+
+Steps to reproduce the problem:
+    Step 1 Go to SMV - Illidari point
+    Step 2 Find Ar'tor
+    Step 3 Attempt to interact
+
+rev. hash/commit:
+
+Sunstrider rev. 10884 (6809e0a060f2+ 2019-04-05 23:58:46 +0200 (msater branch) (Unix, RelWithDebInfo, Static)
