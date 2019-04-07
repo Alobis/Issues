@@ -1,0 +1,21 @@
+Description:
+Pet class issue when controlling summons
+
+Current behaviour:
+In the SMV quest "Frankly, It Makes No Sense..." the player is required to control the mechascorp thing to tag diemetredons.
+When attempting this quest previously I was unable to interact with the control console.
+This time, I decided to dismiss my pet prior to using the console and it worked.
+
+Expected behaviour:
+The player is able to interact with the console despite having a pet out.
+
+Steps to reproduce the problem:
+
+    Step 1 Accept the quest and head to the consoles.
+    Step 2 Summon a felguard or other pet - I was unable to get confirmation whether hunters experience this problem.
+    Step 3 Attempt to use the console.
+    Step 4 Dismiss pet and then you will be able to use the console.
+
+rev. hash/commit:
+
+Sunstrider rev. 10898 (f187d2e23dad+) n2019-04-06 16:54:43 +0200 (master branch) (Unix, RelWithDebInfo, Static)
